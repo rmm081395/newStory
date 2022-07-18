@@ -17,3 +17,8 @@ John is now a team lead
 #Chapter 5: Leadership
 
 Steve was now a team leader. It was harder than he thought.
+
+#Chapter 6: Prod Issue
+
+A critical prod issue occurred. Everyone looked to Steve for the solution.
+
