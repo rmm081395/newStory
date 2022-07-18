@@ -23,3 +23,7 @@ Steve was now a team leader. It was harder than he thought.
 
 A critical prod issue occurred. Everyone looked to Steve for the solution.
 
+#Chapter 7: A new contender appears
+
+Ronnel  Mendoza
+
