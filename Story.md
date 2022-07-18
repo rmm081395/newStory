@@ -8,7 +8,8 @@ This is chapter 2
 
 # Chapter 3: The Promotion
 
-This is chapter 3
+The boss decided to have a talk with him. "John, it's time you became
+a Team Leader."
 
 #Chapter 4: The Team Lead?
 
