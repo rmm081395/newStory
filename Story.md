@@ -13,3 +13,7 @@ This is chapter 3
 #Chapter 4: The Team Lead?
 
 John is now a team lead
+
+#Chapter 5: Leadership
+
+Steve was now a team leader. It was harder than he thought.
