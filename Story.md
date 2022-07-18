@@ -4,8 +4,8 @@ This is chapter 1
 
 # Chapter 2: The Project
 
-One day, he was invited to join a key project.
+This is chapter 2
 
 # Chapter 3: The Promotion
 
-The boss decided to have a talk with him.
+This is chapter 3
